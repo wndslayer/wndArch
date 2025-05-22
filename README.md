@@ -1,3 +1,3 @@
-# wndArch
+### wndArch
 
 hyprland + wayland confs soon
